@@ -9,4 +9,8 @@ public class Pixel {
 		this.GREEN_VAL = aGREEN_VAL;
 		this.BLUE_VAL = aBLUE_VAL;
 	}
+	
+	public void setRED_VAL(int aRED_VAL){
+		this.RED_VAL = aRED_VAL;
+	}
 }
