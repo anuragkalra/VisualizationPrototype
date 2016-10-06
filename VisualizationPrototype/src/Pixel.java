@@ -1,5 +1,8 @@
 
 public class Pixel {
+	public static int MAX_LIGHT = 255;
+	public static int MIN_LIGHT = 0;
+	
 	private int RED_VAL;
 	private int GREEN_VAL;
 	private int BLUE_VAL;
