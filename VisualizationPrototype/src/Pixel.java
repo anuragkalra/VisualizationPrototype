@@ -31,6 +31,12 @@ public class Pixel {
 		return BLUE_VAL;
 	}
 
+	public void setALL(int aRED_VAL, int aGREEN_VAL, int aBLUE_VAL){
+		RED_VAL = aRED_VAL;
+		GREEN_VAL = aGREEN_VAL;
+		BLUE_VAL = aBLUE_VAL;
+	}
+	
 	/**
 	 * @param RED_VAL the RED_VAL to set
 	 */
